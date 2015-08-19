@@ -1,0 +1,31 @@
+{
+  "name": "tree-op",
+  "version": "0.0.0",
+  "description": "Tree operation",
+  "main": "lib/tree-op.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "jshint": "^2.5.6",
+    "mocha": "^2.2.5"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cronvel/tree-op.git"
+  },
+  "keywords": [
+    "tree",
+    "operation"
+  ],
+  "author": "Cédric Ronvel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cronvel/tree-op/issues"
+  }
+}
