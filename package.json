@@ -1,6 +1,6 @@
 {
   "name": "tree-ops",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Tree operations",
   "main": "lib/tree-ops.js",
   "directories": {
